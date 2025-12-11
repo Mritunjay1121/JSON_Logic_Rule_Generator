@@ -25,7 +25,7 @@ An AI-powered FastAPI service that converts natural-language prompts into valid 
 
 ```
 git clone https://github.com/Mritunjay1121/JSON_Logic_Rule_Generator.git
-cd jsonlogic-rag-api
+cd JSON_Logic_Rule_Generator
 ```
 
 
