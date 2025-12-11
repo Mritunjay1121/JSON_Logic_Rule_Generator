@@ -125,3 +125,18 @@ To test it with some examples there are tests written in "tests" folder . To tes
 ```
 python tests\test_api.py
 ```
+
+
+### DEPLOYED IN HUGGINGFACE SPACES DO HAVE A TEST :
+
+#### HUGGINGFACE REPO :
+
+```
+https://huggingface.co/spaces/datasciencesage/JSON_Logic_Rule_Generator
+```
+
+#### ENDPOINTS FOR TESTING :
+
+```
+https://datasciencesage-json-logic-rule-generator.hf.space/
+```
