@@ -120,15 +120,8 @@ The response will include:
 
 ### Test
 
-To test it with some examples there are tests written in "tests" folder . To test just run any of below commands
+To test it with some examples there are tests written in "tests" folder . To test just run below command
 
 ```
 python tests\test_api.py
-```
-
-OR
-
-
-```
-tests\manual_test_examples.sh
 ```

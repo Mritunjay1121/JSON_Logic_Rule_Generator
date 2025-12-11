@@ -1,0 +1,17 @@
+fastapi 
+uvicorn[standard] 
+sentence-transformers 
+faiss-cpu 
+openai 
+pydantic-settings 
+rank-bm25 
+scikit-learn 
+pytest 
+pytest-asyncio 
+pytest-cov 
+python-dotenv 
+numpy 
+structlog
+json-logic-qubit
+httpx
+loguru
