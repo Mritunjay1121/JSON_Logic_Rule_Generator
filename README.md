@@ -137,6 +137,4 @@ https://huggingface.co/spaces/datasciencesage/JSON_Logic_Rule_Generator
 
 #### ENDPOINTS FOR TESTING :
 
-```
-https://datasciencesage-json-logic-rule-generator.hf.space/
-```
+Deployed on HUGGINGFACE SPACES : [Deployed](https://datasciencesage-json-logic-rule-generator.hf.space/)
